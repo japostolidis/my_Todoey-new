@@ -44,7 +44,7 @@
                         <barButtonItem key="rightBarButtonItem" systemItem="add" id="AY2-Yn-uFE">
                             <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                             <connections>
-                                <action selector="addButtonPressed:" destination="e8V-YG-BQh" id="YEj-rr-t9S"/>
+                                <action selector="addButtonPressed:" destination="e8V-YG-BQh" id="PSs-Vj-wON"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
@@ -102,7 +102,7 @@
                         <barButtonItem key="rightBarButtonItem" style="plain" systemItem="add" id="dZY-zs-831">
                             <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <connections>
-                                <action selector="assButtonPressed:" destination="ijL-V6-zSg" id="UXb-xM-uOe"/>
+                                <action selector="addButtonPressed:" destination="ijL-V6-zSg" id="uHK-E7-AvO"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
